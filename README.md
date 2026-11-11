@@ -1,5 +1,5 @@
 
-### Bonjour, je suis Ngouanlessa Eric Kouame
+### Bonjour, Je suis Ngouanlessa Eric Kouame
 
 ### 🌐 Cisco PreSales & Systems Engineer | Solution Architect | Cloud & Cybersecurity Enthusiast
 
