@@ -29,5 +29,5 @@ Le but ? Découvrir de nouvelles façons de faire, me familiariser avec d'autres
 
 ---
 
-### 📫 Entrons en contact
+### 📫 Contact
 Si vous avez des projets sur cette thématique, je suis joignable sur [LinkedIn](https://www.linkedin.com/in/ngouanlessa-eric-kouame-5a9890127/) !
