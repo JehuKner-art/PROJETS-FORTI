@@ -1,7 +1,7 @@
 
 ### Bonjour, Je suis Eric Kouame
 
-**Cisco PreSales & Systems Engineer | Solution Architect | Cybersecurity Enthusiast**
+**Cisco PreSales & Systems Engineer | Cybersecurity Enthusiast**
 
 📍 **Abidjan, Côte d'Ivoire** (Ouvert au travail - Sur site / Hybride) 
 🔗 [Profil LinkedIn](https://www.linkedin.com/in/ngouanlessa-eric-kouame-5a9890127/)
