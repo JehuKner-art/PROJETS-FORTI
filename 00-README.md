@@ -40,7 +40,7 @@ Veuillez Note que chaque LAB est conçu à partir de l'émulateur **EVE-NG** et 
 1. Fortigate: **Fortinet-FTG-v7.0.11M**
 2. Cisco Switchs: **X_86_64_crb_linux_l2_adventerprisek9-ms.bin**
 3. Cisco Routers: **L3_ADVENTERPRISEK9_MS_15.5_2T.bin**
-4. VPC: les VPC qui viennent par **default**  avec le package installation .
+4. VPC: les VPCs qui viennent par **defaut**  avec le package installation .
 
 ---
 
